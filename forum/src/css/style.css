@@ -1,0 +1,95 @@
+.formbody {
+    /*background-image:url(../img/formbody.png);*/
+    background-color: black;
+
+
+}
+
+.footerpage {
+    background-color: black;
+    color: white;
+    border: 4px solid #b2ce0d;
+
+
+}
+.navbar  {
+    background-color: black;
+    color: white;
+    border: 4px solid #b2ce0d;
+
+}
+
+.navimg {
+    height: 75px;
+    width: 75px;
+
+}
+
+.nom {  
+    color: white;
+
+}
+
+.titrentre {
+    color: #b2ce0d;
+}
+
+.boutonmodal {
+    border: 2px solid #b2ce0d;
+    background-color: black;
+    color: white;
+}
+
+/* MODAL */
+.tittlemodal {
+    color:black;
+}
+
+.modalheader {
+    border: 2px solid #b2ce0d;
+    background-color: black;
+    
+
+}
+
+.tittlemodal {
+    color: #b2ce0d;
+
+}
+
+.modalfooter {
+    border: 2px solid #b2ce0d;
+    background-color: black;
+}
+
+.modalbody {
+    background-image: repeating-linear-gradient(black, #b2ce0d 900px);
+    border-left: 2px solid #b2ce0d;
+    border-right: 2px solid #b2ce0d;
+    color:white;
+}
+
+
+
+.boutonmodalfooter {
+    border: 2px solid #b2ce0d;
+    background-color: black;
+    color: white;
+
+}
+
+.rens {
+    color: #b2ce0d;
+
+}
+
+/* CAROUSEL */
+.carouselimg {
+    width: 100px;
+    height: 300px;
+}
+
+/* Capacités entreprise */
+.caparens {
+    
+}
