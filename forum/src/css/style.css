@@ -1,7 +1,9 @@
 .formbody {
-    /*background-image:url(../img/formbody.png);*/
+    background-image:url(../img/formbody.png);
     background-color: black;
-
+    margin: 0 auto;
+    background-repeat:no-repeat;
+    background-position:center center;
 
 }
 
@@ -23,7 +25,7 @@
 }
 
 .hr {
-    width: 500px;
+    width: 800px;
     height: 2px;
     background-image: radial-gradient(circle at center,black 10px, #b2ce0d );
 }
@@ -106,9 +108,15 @@
 }
 
 /* CAROUSEL */
+.carousel {
+    width: 500px;
+    height: 500px;
+
+}
+
 .carouselimg {
-    width: 50px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     margin-left: .5rem;
     margin-right: .5rem;
     border: 2px solid #b2ce0d;
@@ -123,17 +131,19 @@
 /* CARD */
 
 .card{
-    width: 15rem;
+    border: 2px solid #b2ce0d;
+    width: 400px;
+    margin: 0 auto; 
 }
 
 .cardimg {
     background-color: black;
-    border: 2px solid #b2ce0d;
+
 }
 
 .cardbody {
     background-color: black;
-    border: 2px solid #b2ce0d;
+    
 }
 .cardtext {
     color: white;
@@ -143,4 +153,5 @@
     background-color: black;
     color: white;
     border: 2px solid #b2ce0d;
+    
 }
