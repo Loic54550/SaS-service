@@ -9,15 +9,37 @@
     background-color: black;
     color: white;
     border: 4px solid #b2ce0d;
-
-
+    margin-left: .5rem;
+    margin-right: .5rem;
+    
 }
 .navbar  {
     background-color: black;
     color: white;
     border: 4px solid #b2ce0d;
+    margin-left: .5rem;
+    margin-right: .5rem;
 
 }
+
+.hr {
+    width: 500px;
+    height: 2px;
+    background-image: radial-gradient(circle at center,black 10px, #b2ce0d );
+}
+
+/* Icone navbar */
+
+.button1 {
+    border: 2px solid #b2ce0d;
+}
+
+.icone {
+    color:white;
+    border: 2px solid #b2ce0d;
+    width: 3.5em;
+}
+/**/
 
 .navimg {
     height: 75px;
@@ -31,7 +53,7 @@
 }
 
 .titrentre {
-    color: #b2ce0d;
+    color: white;
 }
 
 .boutonmodal {
@@ -85,11 +107,40 @@
 
 /* CAROUSEL */
 .carouselimg {
-    width: 100px;
-    height: 300px;
+    width: 50px;
+    height: 150px;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    border: 2px solid #b2ce0d;
 }
 
-/* Capacités entreprise */
-.caparens {
-    
+.iconecarousel {
+   
+}
+/**/
+
+
+/* CARD */
+
+.card{
+    width: 15rem;
+}
+
+.cardimg {
+    background-color: black;
+    border: 2px solid #b2ce0d;
+}
+
+.cardbody {
+    background-color: black;
+    border: 2px solid #b2ce0d;
+}
+.cardtext {
+    color: white;
+}
+
+.textgroup {
+    background-color: black;
+    color: white;
+    border: 2px solid #b2ce0d;
 }
