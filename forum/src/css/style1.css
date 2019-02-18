@@ -20,7 +20,6 @@ body {
 }
 
 
-
 .footerpage {
     background-color: black;
     color: white;
@@ -29,9 +28,6 @@ body {
     margin-right: .5rem;
     
 }
-
-
-
 
 .hr {
     width: 800px;
@@ -56,8 +52,8 @@ body {
 }
 
 .juming {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
 }
 
 .bouton1 {
