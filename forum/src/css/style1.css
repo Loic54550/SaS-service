@@ -34,6 +34,7 @@ html {
     
 }
 
+/* JUMBOTRON */
 .jumbotron {
     background-color: black;
     color: white;
@@ -46,12 +47,13 @@ html {
 
 .juming {
     height: 350px;
-    width: 350px;
+    width: 275px;
 }
 
 .badge {
     background-color: #b2ce0d;
 }
+
 
 .bouton1 {
     border: 1px solid #b2ce0d;
@@ -68,9 +70,17 @@ html {
 }
 
 .cardbody {
-    background-color: black;
+    background-image: repeating-linear-gradient(black, #b2ce0d 2000px);
 
 }
+
+.cardimg {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+
+}
+/**/
 
 /* ACCORDION */
 .cardaccordion {
@@ -95,6 +105,8 @@ html {
 
 }
 /**/
+
+
 
 /* CAROUSEL */
 .carousel {
