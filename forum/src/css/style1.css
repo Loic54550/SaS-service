@@ -1,6 +1,9 @@
 html {
     height: 100%;
     background-color: black;
+    background-repeat:no-repeat;
+    background-size: cover;
+    /*background-color: black;*/
     
 }
 
@@ -10,6 +13,10 @@ html {
     background-repeat:no-repeat;
     background-position:center center;
     
+}
+
+.accueilbody {
+    background-color: black;
 }
 
 
@@ -29,8 +36,12 @@ html {
 }
 
 .accueil {
+    background-color: black;
     margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
     color: white;
+    border: 2px solid #b2ce0d;
     
 }
 
@@ -48,7 +59,7 @@ html {
 
 /* JUMBOTRON */
 .jumbotron {
-    background-image: repeating-linear-gradient(black, #b2ce0d 2000px);
+    background-color: black;
     color: white;
     border: 2px solid #b2ce0d;
     margin-top: .5rem;
